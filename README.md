@@ -16,5 +16,7 @@ Repo que contiene las evidencias del taller 5 BDD desarrollado por:
 
 ## 2. Calabash
 
-Se lograron hacer pruebas solamente en una maquina MacOS:
+Se lograron hacer pruebas solamente en una maquina MacOS, ademas es importante que el emulador este en Español para que el .feature del taller encuentre los elementos sobre Transmilenio.apk
+
+
 
